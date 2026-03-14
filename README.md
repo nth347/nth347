@@ -34,6 +34,10 @@
 
 - CVE-2022-39365: https://nvd.nist.gov/vuln/detail/CVE-2022-39365
 
+## 🧩 Contributions
+
+- AdaptixC2 Extension-Kit: https://adaptix-framework.gitbook.io/adaptix-framework/changelog-and-updates/v1.0-greater-than-v1.1
+
 ## 🏆 Certifications
 
 - BSCP: https://portswigger.net/web-security/e/c/3a91a00c62f3eca9
