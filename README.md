@@ -2,6 +2,8 @@
 
 💻 Offensive Security | Application Security | Security Research
 
+<img src="https://media.tenor.com/oSV2fbYggsUAAAAi/crypto-work.gif" width="150">
+
 ## 💣 Offensive Security
 
 - Offensive Security Program Development
