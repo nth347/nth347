@@ -11,7 +11,7 @@
 - Hybrid AD/Azure Compromise
 - Executive Reporting & Stakeholder Briefing
 
-## 🛡️ Applicatin Security
+## 🛡️ Application Security
 
 - Application Security Engineering
 - Review/Pentest Web, API & Mobile
