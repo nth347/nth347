@@ -29,7 +29,7 @@
 
 ## 💻 Technologies
 
-- Programming Languages: C/C++, C#/.NET, Java, PHP, Python, Rust, Golang
+- Programming Languages: C/C++, C#/.NET, Java, PHP, Python, Rust, Golang, Lua
 - Scripting Languages: Bash, PowerShell
 
 ## 🐞 CVEs
